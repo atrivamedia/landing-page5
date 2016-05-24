@@ -69,7 +69,6 @@ mark {
 }
 small {
   font-size: 80%;
-  color: #ffffff; /* -- wesley: doesn't work ; -- */
 }
 sub,
 sup {
@@ -1240,7 +1239,6 @@ h2 .small,
 h3 .small,
 .h3 .small {
   font-size: 65%;
-  color: white; /* -- wesley: doesn't work; -- */
 }
 h4,
 .h4,
@@ -1306,7 +1304,6 @@ p {
 small,
 .small {
   font-size: 85%;
-  color: white; /* -- wesley: doesn't work; -- */
 }
 mark,
 .mark {
@@ -1495,7 +1492,7 @@ blockquote .small {
   display: block;
   font-size: 80%;
   line-height: 1.42857143;
-  color: #000; /* #777; -- wesley: doesn't work; -- */
+  color: #777;
 }
 blockquote footer:before,
 blockquote small:before,

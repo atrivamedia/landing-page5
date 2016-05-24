@@ -102,7 +102,7 @@ footer a:hover{
 }
 
 form li.focused {
-	background-color: #1b222a !important;
+	background-color: white !important;
 }
 
 input.btTxt {
@@ -139,6 +139,31 @@ input#Field6{
 
 .form-group{
 	margin-bottom:0px !important;
+}
+
+/* main color theme settings */
+a.btn, input.btn {
+	background-color: #db5000; /* #ec6517; */
+}
+
+section#contact hr.primary {
+	border-color: #ec6517;
+}
+
+section.bg-primary {
+	background-color: #ec6517; /* #db5000; */
+}
+
+hr.primary {
+	border-color: #ec6517; /* #db5000; */
+}
+
+i.fa {
+	color: #ec6517; /* #db5000; */
+}
+
+footer.bg-primary {
+	background-color: #121212;
 }
 
 
