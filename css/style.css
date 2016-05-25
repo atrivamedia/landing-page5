@@ -137,6 +137,18 @@ input#Field6{
 	/*width:560px; */
 }
 
+/* Add Field1 for new Wufoo form v3 */
+input#Field1{
+	font-size: 16px;
+	line-height: 24px;
+	margin-left:39% !important;
+	margin: 0px;
+	padding-left:20px !important;
+	/* width: 40%; */
+	width:370px;
+	/*width:560px; */
+}
+
 .form-group{
 	margin-bottom:0px !important;
 }
